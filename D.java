@@ -10,7 +10,7 @@ public class D {
         System.out.println("MC2");
     }
 
-    public void MD3() {
-        System.out.println("MD3");
+    public void MD4() {
+        System.out.println("MC4");
     }
 }
